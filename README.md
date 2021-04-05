@@ -1,6 +1,6 @@
 # DataChallenge Machine Learning 1  
 
-Ce data challenge a été organisé pour évaluer les connaissances des étudiants des mastères spécialisés IA et Big Data 2020 /2021 pour l'enseignement introductif au machine learning. Le notebook soumis est consultable [ici](https://github.com/PhileasFrog/DataChallenge_ML/blob/main/Data_Challenge_Jeancler_D.ipynb).
+Ce data challenge a été organisé pour évaluer les connaissances des étudiants des mastères spécialisés IA et Big Data 2020 /2021 pour l'enseignement introductif au machine learning. Le notebook soumis est consultable [ici](https://github.com/PhileasFrog/DataChallenge_ML/blob/main/notebook/Data_Challenge_Jeancler_D.ipynb).
 
 Mon classement à l'issue de challenge est de 2/71 avec un ROC 0.995 (très suspect !?). Précisons d'entrée que l'exercice a été biaisé par la nature des données d'entrée et que les résultats relèvent plus d'astuce que de réelles perforamances de machine learning. 
 
