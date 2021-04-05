@@ -6,6 +6,10 @@ Mon classement à l'issue de challenge est de 2/71 avec un ROC 0.995 (très susp
 
 ![](https://media.giphy.com/media/3ornjSL2sBcPflIDiU/giphy.gif) ![text](image/Ranking.png)
 
+
+<img src="image/Ranking.png" alt="Rank"
+	title="A cute kitten" width="150" height="100" />
+
 # Enoncé : Supervised anomaly detection
 
 **Anomaly detection** (or **outlier detection**) comprises the **machine learning** methods aimed at identification of observations that exhibit suspicious behaviour and are very likely to cause a problem. 
