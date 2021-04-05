@@ -4,11 +4,10 @@ Ce data challenge a été organisé pour évaluer les connaissances des étudian
 
 Mon classement à l'issue de challenge est de 2/71 avec un ROC 0.995 (très suspect !?). Précisons d'entrée que l'exercice a été biaisé par la nature des données d'entrée et que les résultats relèvent plus d'astuce que de réelles perforamances de machine learning. 
 
-![](https://media.giphy.com/media/3ornjSL2sBcPflIDiU/giphy.gif) ![text](image/Ranking.png)
-
+![](https://media.giphy.com/media/3ornjSL2sBcPflIDiU/giphy.gif)
 
 <img src="image/Ranking.png" alt="Rank"
-	title="A cute kitten" width="150" height="100" />
+	title="Mon classement" width="250" height="200" />
 
 # Enoncé : Supervised anomaly detection
 
