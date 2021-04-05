@@ -4,7 +4,7 @@ Ce data challenge a été organisé pour évaluer les connaissances des étudian
 
 Le classement à l'issue de challenge est de 2/71 mais il est à précisé qu'il a été quelque peu biaisé par des manipulations relevant plus du hacking que du machine learning. 
 
-[](https://media.giphy.com/media/3ornjSL2sBcPflIDiU/giphy.gif)
+![](https://media.giphy.com/media/3ornjSL2sBcPflIDiU/giphy.gif)
 
 # Enoncé : Supervised anomaly detection
 
